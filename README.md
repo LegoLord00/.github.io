@@ -1,2 +1,18 @@
-<h1>Russel Mangiapane III</h1>
-<img src="https://s3.amazonaws.com/content.accelerate-ed.com/Secondary/docs/BasicWebDesign_AE/images/1.4_pg9_img1.png![image](https://github.com/LegoLord00/.github.io/assets/165327134/2b6552e2-6809-4e97-97c6-85b914fc884e)">
+<html>
+  <head>
+    <title>Russel Mangiapane&#39;s News Blog "Going Live"</title>
+  </head>
+  <body>
+    <hr><h1>Russel Mangiapane&#39;s School News Blog</h1></hr>
+    <hr><h3><b>Latest News</b></h3></hr>
+    <hr><h4><b>Varsity Cross Country Season Headline Story</b></h4></hr>
+    <h6><p>The Varisty CC Team wrapped up their seasona few weeks ago in stunning fashion. Read the story on their last strides below!</p>
+    <p>Link</p>
+    <p>&nbsp;</p>
+    <h5>Here is a link to download a PDF version of the article!</h5>
+    <h6><p>Link</p></h6> 
+    <p>&nbsp;</p>
+      <h5>I also included a link to an article written on the team that was featured in Home Town Life.<h6><p>Link</p></h6><h/5>
+    <p><hr></hr></p>
+  </body>
+</html>
