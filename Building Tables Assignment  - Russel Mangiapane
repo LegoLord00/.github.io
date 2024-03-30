@@ -7,6 +7,7 @@
         border: 1px solid black;
     }
 </style>
+
 <table>
     <caption><b>Job Position by Gender</b></caption>
     <thead>
@@ -19,30 +20,30 @@
     </thead>
     <tbody>
         <tr>
-            <td>Linemen</td>
+            <th>Linemen</th>
             <td><center>95&percnt;</center></td>
             <td><center>5&percnt;</center></td>
             <td><center>90&percnt;</center></td>
         </tr>
         <tr>
-            <td>Nurse</td>
+            <th>Nurse</th>
             <td><center>12&percnt;</center></td>
             <td><center>88&percnt;</center></td>
             <td><center>76&percnt;</center></td>
         </tr>
         <tr>
-            <td>K&ndash;12 Teacher</td>
+            <th>K&ndash;12 Teacher</th>
             <td><center>24&percnt;</center></td>
             <td><center>76&percnt;</center></td>
             <td><center>52&percnt;</center></td>
         </tr>
         <tr>
-            <td>Sewage Cleaner</td>
+            <th>Sewage Cleaner</th>
             <td><center>96&percnt;</center></td>
             <td><center>4&percnt;</center></td>
             <td><center>92&percnt;</center></td>
         </tr>
-        <tr><td colspan="4"></td></td></tr>
+        <tr><th></th><td colspan="3"></td></td></tr>
 </tbody>
 </table>
 </html>
