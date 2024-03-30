@@ -1,0 +1,90 @@
+<html>
+<head>
+    <title>Math Test Form Assignment&ndash;Russel Mangiapane</title>
+</head>
+<body>
+    <table>
+        <tb>
+            <tr>
+                <td>
+                    <form>
+                        <legend><b>Name&colon;</b></legend>
+                        <input type="text">
+                    </form>
+                </td>
+                <td>
+                    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<!--There was probably an easier way to do this, but I didn't know how haha.-->
+                </td>
+                <td>
+                    <form>
+                        <legend><b>Date&colon;</b></legend>
+                        <input type="text">
+                    </form>
+                </td>
+            </tr>
+        </tb>
+    </table>
+    <h1>Mr. Mangiapane&apos;s 3rd Grade Math Test&colon; Mutiplication and Divison</h1>
+    <!--Begin Test-->
+    <p>
+        <b>Select the correct answer to each problem</b>
+    </p>
+    <hr></hr>
+    <!--Question 1-->
+    <form>
+        <p>
+            <b>1.</b> 216 &#8274; 6
+        </p>
+        <input type="radio" name="1 Problem" value="30">
+        30<br />
+    <input type="radio" name="1 Problem" value="36">
+    36<br />
+<input type="radio" name="1 Problem" value="34">
+34<br />
+<input type="radio" name="1 Problem" value="38">
+38
+</form>
+<form>
+<p>
+<hr></hr>
+<!--Question 2-->
+<b>2.</b> 144 &#8274; 8
+</p>
+<input type="radio" name="2 Problem" value="18">
+18<br />
+<input type="radio" name="2 Problem" value="16">
+16<br />
+<input type="radio" name="2 Problem" value="14">
+14<br />
+<input type="radio" name="2 Problem" value="19">
+19
+</form>
+<hr></hr>
+<!--Question 3-->
+<form>
+<p>
+<b>3.</b> 14 &times; 9
+</p>
+<input type="radio" name="3 Problem" value="126">
+126<br />
+<input type="radio" name="3 Problem" value="138">
+138<br />
+<input type="radio" name="3 Problem" value="122">
+122<br />
+<input type="radio" name="3 Problem" value="132">
+132
+</form>
+<hr></hr>
+<!--Question 4 Word Problem-->
+<p>
+<b>4.</b> Billy took a math test yesterday. Billy had to answer this problem&colon;
+<br></br>
+<br>John went to the store every week for 6 weeks to buy grocery's for his family. His budget every week was &dollar;150. If spent &dollar;147, &dollar;143, &dollar;152, &dollar;146, &dollar;139, and &dollar;141 each week. His mom said if he watched the sales, he could keep the extra money to sve up for a bike. How much did John save up?</br>
+<br></br>
+Billy &times; each week by 6, added them together, then &minus; 150. He got &dollar;5058! What did Billy do wrong? Find the correct answer.
+</p>
+<textarea rows='6' cols='65'>
+</textarea>
+<!--End Test-->
+</body>
+</html>
