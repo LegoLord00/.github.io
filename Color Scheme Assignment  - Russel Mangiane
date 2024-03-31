@@ -1,0 +1,63 @@
+<html>
+<head>
+    <title>Color Scheme Assignment &ndash; Russel Mangiapane</title>
+</head>
+<body>
+    <img src="http://images.fineartamerica.com/images-medium-large/puerto-rico-sunset-tor-johannessen.jpg">
+    <table>
+        <style>
+            tr,td
+            {
+                border: 1px solid black;
+            }
+        </style>
+        <thead>
+            <tr><td style="text-align: center; font-family: 'Segoe UI', Verdana, sans-serif;" colspan="4">
+                Puerto Rican Sunset</td>
+            </p>
+        </thead>
+        <tbody>
+            <tr>
+                <td><p style="background-color: rgb(7,0,0); color:rgb(255,255,255">
+                    Burnt Charcoal Red
+                </p>
+                </style>
+            </td>
+            <td><p style="background-color:rgb(38,30,25); color:rgb(255,255,255">
+                Brownish Black
+            </p>
+            </style>
+        </td>
+        <td><p style="background-color: rgb(131,75,29); color:rgb(255,255,255">
+            Dark Nougat
+        </p>
+        </style>
+    </td></td>
+<td><p style="background-color:rgb(254,209,91); color:rgb(0,0,0">
+    Orange Cream
+</p>
+</style>
+</td>
+</tr>
+<tr>
+  <td>#000007</td>
+  <td>#261E19</td>
+  <td>#834B1D</td>
+  <td>#FED15B</td>
+</tr>
+<tr>
+  <td>0, 0, 7</td>
+  <td>38, 30, 25</td>
+  <td>131, 75, 29</td>
+  <td>254, 209, 91</td>
+</tr>
+<tr>
+  <td>240, 200, 1.4</td>
+  <td>23, 20.6, 12.4</td>
+  <td>27, 63.7, 31.4</td>
+  <td>43, 93.8, 67.6</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
