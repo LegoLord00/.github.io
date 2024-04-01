@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>Resturant Menu Assignment &ndash; Russel Mangiapane</title>
+</head>
+<body>
+    <div style="width: 400px; height: 550px; margin: 20px; padding: 20px; border: 2px solid #808080; background-image: url('https://littlesunnykitchen.com/wp-content/uploads/2020/11/Easy-Pancake-Recipe-2-650x975.jpg'); background-position: center;">
+        <h2 style="margin-bottom: 20px;">Breakfast Menu</h2>
+        <ul style="list-style-type: none; font-weight: bold;">
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Pancakes</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Scrambled Eggs</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">French Toast</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Orange Juice</li>
+            <li style="padding: 5px;">Coffee</li>
+        </ul>
+    </div>
+
+    <div style="width: 400px; height: 550px; margin: 20px; padding: 20px; border: 2px solid #808080; background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.exQhgOEPwS6wSvoJvCeQNgHaJQ%26pid%3DApi&f=1&ipt=0d5072fc59dcae69cbd9e3f50e7d3f54073e332fc3735c52a19c1a3894b729f5&ipo=images'); background-position: center;">
+        <h2 style="margin-bottom: 20px;">Lunch Menu</h2>
+        <ul style="list-style-type: none; font-weight: bold;">
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Sandwiches</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Salad</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Pasta</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Iced Tea</li>
+            <li style="padding: 5px;">Lemonade</li>
+        </ul>
+    </div>
+
+    <div style="width: 400px; height: 550px; margin: 20px; padding: 20px; border: 2px solid #808080; background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Zq_N-9_1PKDxENikcWvBPQHaJ4%26pid%3DApi&f=1&ipt=86bba78f3576cdabc4a6a1be694ea2873f6ee48c40a84df952c9f6d54900b88f&ipo=images'); background-position: center;">
+        <h2 style="margin-bottom: 20px;">Dinner Menu</h2>
+        <ul style="list-style-type: none; font-weight: bold;">
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Steak</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Grilled Salmon</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Vegetable Stir Fry</li>
+            <li style="padding: 5px; border-bottom: 1px solid #808080;">Wine</li>
+            <li style="padding: 5px;">Sparkling Water</li>
+        </ul>
+    </div>
+</body>
+</html>
