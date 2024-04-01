@@ -1,0 +1,79 @@
+<html>
+<head>
+    <title>Stylish Schedule Assignment &ndash; Russel Mangiapane</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            border: 1px solid #808080;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .important {
+            font-weight: bold;
+        }
+
+        .breakfast {
+            background-color: #ffe6e6;
+        }
+
+        .lunch {
+            background-color: #e6ffe6;
+        }
+
+        .dinner {
+            background-color: #e6e6ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Schedule</h1>
+    <table>
+        <tr>
+            <th>Time</th>
+            <th>Event</th>
+        </tr>
+        <tr>
+            <td>8:00 AM</td>
+            <td class="important">Morning Jog</td>
+        </tr>
+        <tr>
+            <td>9:00 AM</td>
+            <td class="breakfast">Breakfast</td>
+        </tr>
+        <tr>
+            <td>10:00 AM</td>
+            <td>Work Meeting</td>
+        </tr>
+        <tr>
+            <td>12:00 PM</td>
+            <td class="lunch">Lunch</td>
+        </tr>
+        <tr>
+            <td>1:00 PM</td>
+            <td>Errands</td>
+        </tr>
+        <tr>
+            <td>3:00 PM</td>
+            <td>Study Time</td>
+        </tr>
+        <tr>
+            <td>6:00 PM</td>
+            <td class="dinner">Dinner</td>
+        </tr>
+        <tr>
+            <td>8:00 PM</td>
+            <td>Movie Night</td>
+        </tr>
+    </table>
+</body>
+</html>
